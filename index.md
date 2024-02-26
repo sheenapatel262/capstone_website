@@ -12,14 +12,14 @@
 
 ---
 
-## Purpose
+## Introduction
 
-Provide a brief overview of our inspiration & overview of capstone project
+Provide a brief overview of our inspiration, purpose, & general project overview
 
   <details>
     <summary>Expand to see details</summary>
   
-      Your abstract content goes here.
+     &nbsp; - Insert abstract
   
   </details>
 
@@ -27,10 +27,10 @@ Provide a brief overview of our inspiration & overview of capstone project
 
 ## Datasets
 
-Discuss the datasets used for the project:=
-1.  sources
-2.  characteristics
-3.  preprocessing steps
+Discuss the datasets used for the project:
+  1.  sources
+  2.  characteristics
+  3.  preprocessing steps
 
 <details>
   <summary>Expand to see details</summary>
@@ -56,16 +56,16 @@ Discuss the datasets used for the project:=
 
 ## Models
 
-Explain the models employed in the capstone project.
+Explain the models employed
 
 <details>
   <summary>Expand to see details</summary>
 
-    Basseline Model <br/>
-    &nbsp; &nbsp; Explain the ST-GAT model and baseline overview layers <br/>
+    &nbsp; &nbsp; Basseline Model <br/>
+    &nbsp; &nbsp; &nbsp; &nbsp; - Explain the ST-GAT model and baseline overview layers <br/>
   
-    Complex <br/>
-    &nbsp; &nbsp;Discuss other complex model implementation <br/>
+    &nbsp; &nbsp; Complex <br/>
+    &nbsp; &nbsp; &nbsp; &nbsp; - Discuss other complex model implementation <br/>
 
 </details>
 
@@ -78,7 +78,7 @@ Present the results obtained from the capstone project, including analyses and v
 <details>
   <summary>Expand to see details</summary>
 
-    Your results content goes here.
+    &nbsp; - Insert results <br/>
 
 </details>
 
@@ -89,9 +89,9 @@ Present the results obtained from the capstone project, including analyses and v
 Discuss any ethical considerations and biases addressed during the capstone project
 
 <details>
-  <summary>Expand to see details </summary>
+  <summary> Expand to see details </summary>
 
-    Insert ethics and biases
+    &nbsp; - Insert ethics and biases <br/>
 
 </details>
 
@@ -104,7 +104,7 @@ Summarize the key findings, lessons learned, and potential areas for future work
 <details>
   <summary>Expand to see details</summary>
 
-    &nbsp; &nbsp; Conclusion, next steps, real-world applications <br/>
+    &nbsp; -  Conclusion, next steps, real-world applications <br/>
 
 </details>
 
