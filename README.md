@@ -1,6 +1,7 @@
-# Capstone Website
+# Optimizing GNN's for Traffic Prediction
 
-## Group B12_1 : https://sheenapatel262.github.io/capstone_website/
+## Website : 
+- https://sheenapatel262.github.io/capstone_website/
 
 **Members:**
 - Sheena Patel 
