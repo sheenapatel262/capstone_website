@@ -3,14 +3,11 @@ Optimizing GNN's for Traffic Prediction
 
 <details>
   <summary>Expand to see project team</summary>
-
-  ## Project Team
-
-  ### Members:
-  - Sheena Patel
-  - Ricky Miura
-  - Gita Anand
-
+  
+    - Sheena Patel
+    - Ricky Miura
+    - Gita Anand
+    
 </details>
 
 ---
@@ -22,7 +19,7 @@ Provide a brief overview of our inspiration & overview of capstone project
 <details>
   <summary>Expand to see details</summary>
 
-  Your abstract content goes here.
+    Your abstract content goes here.
 
 </details>
 
@@ -38,20 +35,20 @@ Discuss the datasets used for the project:=
 <details>
   <summary>Expand to see details</summary>
 
-  - Data Collection from Caltrans PeMS
-    - Describe the data collection process
-  - Data Preprocessing: Traffic Data into Traffic Graphs
-    - Describe the data collection process
-      - Nodes
-        - Baseline
-        - Complex
-      - Edges
-        - Baseline
-        - Complex
-  - Dataset of Multiple Graph Signals
-    - Type 1
-    - Type 2
-    - Type 3
+    - Data Collection from Caltrans PeMS
+      - Describe the data collection process
+    - Data Preprocessing: Traffic Data into Traffic Graphs
+      - Describe the data collection process
+        - Nodes
+          - Baseline
+          - Complex
+        - Edges
+          - Baseline
+          - Complex
+    - Dataset of Multiple Graph Signals
+      - Type 1
+      - Type 2
+      - Type 3
 
 </details>
 
@@ -64,7 +61,7 @@ Explain the models employed in the capstone project.
 <details>
   <summary>Expand to see details</summary>
 
-  ### ST-GAT
+  ### Basseline Model
   - Explain the ST-GAT model and baseline overview layers
 
   ### Complex
@@ -94,7 +91,7 @@ Discuss any ethical considerations and biases addressed during the capstone proj
 <details>
   <summary>Expand to see details</summary>
 
-  Insert ethics and biases
+    Insert ethics and biases
 
 </details>
 
@@ -107,7 +104,7 @@ Summarize the key findings, lessons learned, and potential areas for future work
 <details>
   <summary>Expand to see details</summary>
 
-  Conclusion, next steps, real-world applications
+    Conclusion, next steps, real-world applications
 
 </details>
 
