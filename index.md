@@ -1,5 +1,5 @@
-# Capstone Group B12_1: 
-Optimizing GNN's for Traffic Prediction
+
+# Capstone Group B12_1: Optimizing GNN's for Traffic Prediction
 
 <details>
   <summary>Expand to see project team</summary>
@@ -16,12 +16,12 @@ Optimizing GNN's for Traffic Prediction
 
 Provide a brief overview of our inspiration & overview of capstone project
 
-<details>
-  <summary>Expand to see details</summary>
-
-    Your abstract content goes here.
-
-</details>
+  <details>
+    <summary>Expand to see details</summary>
+  
+      Your abstract content goes here.
+  
+  </details>
 
 ---
 
