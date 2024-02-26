@@ -61,11 +61,11 @@ Explain the models employed in the capstone project.
 <details>
   <summary>Expand to see details</summary>
 
-  ### Basseline Model
-  - Explain the ST-GAT model and baseline overview layers
-
-  ### Complex
-  - Discuss other complex model implementation
+    ### Basseline Model <br/>
+    &nbsp; &nbsp; Explain the ST-GAT model and baseline overview layers <br/>
+  
+    ### Complex <br/>
+    &nbsp; &nbsp;Discuss other complex model implementation <br/>
 
 </details>
 
@@ -89,7 +89,7 @@ Present the results obtained from the capstone project, including analyses and v
 Discuss any ethical considerations and biases addressed during the capstone project
 
 <details>
-  <summary>Expand to see details</summary>
+  <summary>Expand to see details </summary>
 
     Insert ethics and biases
 
@@ -99,12 +99,12 @@ Discuss any ethical considerations and biases addressed during the capstone proj
 
 ## Conclusion
 
-Summarize the key findings, lessons learned, and potential areas for future work.
+Summarize the key findings, lessons learned, and potential areas for future work. 
 
 <details>
   <summary>Expand to see details</summary>
 
-    Conclusion, next steps, real-world applications
+    &nbsp; &nbsp; Conclusion, next steps, real-world applications <br/>
 
 </details>
 
