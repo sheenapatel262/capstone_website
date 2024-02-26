@@ -35,9 +35,9 @@ Discuss the datasets used for the project:
 <details>
   <summary>Expand to see details</summary>
 
-    - Data Collection from Caltrans PeMS <br/>
+    Data Collection from Caltrans PeMS <br/>
       &nbsp; &nbsp; - Describe the data collection process <br/>
-    - Data Preprocessing: Traffic Data into Traffic Graphs <br/>
+    Data Preprocessing: Traffic Data into Traffic Graphs <br/>
       &nbsp; &nbsp; - Describe the data collection process <br/>
         &nbsp; &nbsp; &nbsp; &nbsp; - Nodes <br/>
           &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Baseline <br/>
@@ -45,7 +45,7 @@ Discuss the datasets used for the project:
         &nbsp; &nbsp; &nbsp; &nbsp; - Edges <br/>
           &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Baseline <br/>
           &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Complex <br/>
-    - Dataset of Multiple Graph Signals <br/>
+    Dataset of Multiple Graph Signals <br/>
       &nbsp; &nbsp; - Type 1 <br/>
       &nbsp; &nbsp; - Type 2 <br/>
       &nbsp; &nbsp; - Type 3 <br/>
