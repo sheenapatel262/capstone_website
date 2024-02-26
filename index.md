@@ -1,4 +1,18 @@
-# Capstone Project: Optimizing GNN's for Traffic Prediction
+# Capstone Project: Report Outline - Group B12_1
+
+<details>
+  <summary>Expand to see project team</summary>
+
+  ## Project Team
+
+  ### Members:
+  - Sheena Patel
+  - Ricky Miura
+  - Gita Anand
+
+  ![Group Photo](images/group_photo.jpg)
+
+</details>
 
 ---
 
@@ -108,3 +122,4 @@ Summarize the key findings, lessons learned, and potential areas for future work
 </details>
 
 ---
+
