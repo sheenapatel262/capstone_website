@@ -4,9 +4,9 @@
 <details>
   <summary>Expand to see project team</summary>
   
-    - Sheena Patel <br />
-    - Ricky Miura <br />
-    - Gita Anand <br />
+    - Sheena Patel <br/>
+    - Ricky Miura <br/>
+    - Gita Anand <br/>
     
 </details>
 
