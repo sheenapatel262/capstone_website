@@ -61,10 +61,10 @@ Explain the models employed in the capstone project.
 <details>
   <summary>Expand to see details</summary>
 
-    ### Basseline Model <br/>
+    Basseline Model <br/>
     &nbsp; &nbsp; Explain the ST-GAT model and baseline overview layers <br/>
   
-    ### Complex <br/>
+    Complex <br/>
     &nbsp; &nbsp;Discuss other complex model implementation <br/>
 
 </details>
@@ -78,7 +78,7 @@ Present the results obtained from the capstone project, including analyses and v
 <details>
   <summary>Expand to see details</summary>
 
-  Your results content goes here.
+    Your results content goes here.
 
 </details>
 
