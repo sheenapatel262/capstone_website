@@ -1,4 +1,5 @@
-# Capstone Project: Report Outline - Group B12_1
+# Capstone Group B12_1: 
+Optimizing GNN's for Traffic Prediction
 
 <details>
   <summary>Expand to see project team</summary>
@@ -10,15 +11,13 @@
   - Ricky Miura
   - Gita Anand
 
-  ![Group Photo](images/group_photo.jpg)
-
 </details>
 
 ---
 
-## Abstract
+## Purpose
 
-Provide a brief overview of the capstone project, summarizing its purpose, methodology, and key findings.
+Provide a brief overview of our inspiration & overview of capstone project
 
 <details>
   <summary>Expand to see details</summary>
@@ -29,39 +28,30 @@ Provide a brief overview of the capstone project, summarizing its purpose, metho
 
 ---
 
-## Introduction
-
-Introduce the context, objectives, and scope of the capstone project.
-
-<details>
-  <summary>Expand to see details</summary>
-
-  Your introduction content goes here.
-
-</details>
-
----
-
 ## Datasets
 
-Discuss the datasets used in the project, including sources, characteristics, and any preprocessing steps.
+Discuss the datasets used for the project:=
+1.  sources
+2.  characteristics
+3.  preprocessing steps
 
 <details>
   <summary>Expand to see details</summary>
 
-  ### Data Collection from Caltrans PeMS
-  - Describe the data collection process.
-
-  ### Data Preprocessing: Traffic Data into Traffic Graphs
-  #### Nodes
-  - Baseline
-  - Complex
-
-  #### Edges
-  - Baseline
-  - Complex
-
-  ### Dataset of Multiple Graph Signals
+  - Data Collection from Caltrans PeMS
+    - Describe the data collection process
+  - Data Preprocessing: Traffic Data into Traffic Graphs
+    - Describe the data collection process
+      - Nodes
+        - Baseline
+        - Complex
+      - Edges
+        - Baseline
+        - Complex
+  - Dataset of Multiple Graph Signals
+    - Type 1
+    - Type 2
+    - Type 3
 
 </details>
 
@@ -75,10 +65,10 @@ Explain the models employed in the capstone project.
   <summary>Expand to see details</summary>
 
   ### ST-GAT
-  - Explain the ST-GAT model.
+  - Explain the ST-GAT model and baseline overview layers
 
   ### Complex
-  - Discuss other complex models.
+  - Discuss other complex model implementation
 
 </details>
 
@@ -97,14 +87,14 @@ Present the results obtained from the capstone project, including analyses and v
 
 ---
 
-## Ethics and Biases
+## Considerations
 
-Discuss any ethical considerations and biases addressed during the capstone project.
+Discuss any ethical considerations and biases addressed during the capstone project
 
 <details>
   <summary>Expand to see details</summary>
 
-  Your ethics and biases content goes here.
+  Insert ethics and biases
 
 </details>
 
@@ -117,7 +107,7 @@ Summarize the key findings, lessons learned, and potential areas for future work
 <details>
   <summary>Expand to see details</summary>
 
-  Your conclusion content goes here.
+  Conclusion, next steps, real-world applications
 
 </details>
 
