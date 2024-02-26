@@ -38,7 +38,7 @@ Discuss the datasets used for the project:=
     - Data Collection from Caltrans PeMS <br/>
       &ensp - Describe the data collection process <br/>
     - Data Preprocessing: Traffic Data into Traffic Graphs <br/>
-      - Describe the data collection process <br/>
+      &ensp - Describe the data collection process <br/>
         - Nodes <br/>
           - Baseline <br/>
           - Complex <br/>
